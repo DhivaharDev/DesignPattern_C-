@@ -1,0 +1,6 @@
+E:\MyLearning\DesignPattern\Code\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+E:\MyLearning\DesignPattern\Code\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+E:\MyLearning\DesignPattern\Code\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+E:\MyLearning\DesignPattern\Code\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+E:\MyLearning\DesignPattern\Code\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+E:\MyLearning\DesignPattern\Code\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
